@@ -1,0 +1,14 @@
+body {
+	background-color:#ffffff;
+	color:#000000;
+	font-family: 'Sans', sans-serif;
+}
+
+.logo {
+	width:60%;
+	height:auto;
+}
+
+a {
+	color:#ffa500;
+}
